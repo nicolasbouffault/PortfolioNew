@@ -1,0 +1,163 @@
+BODY
+{
+	background-image: url('../img/bg.jpeg');
+}
+H1.tag
+{
+	margin-top: 0px;
+}
+.middle-container
+{
+	background-color: #CCC;
+	text-align: center;
+	padding-top: 20px;
+}
+.nav-links
+{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+#tagline
+{
+	text-align: center;
+}
+#footer-text
+{
+	margin-top: 20px;
+}
+.enter
+{
+	text-align: center;
+	margin-top: 200px;
+}
+.content
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.navbar
+{
+	/*overwriting navbar class from bootstrap.css*/
+	margin-bottom: 0px;
+}
+.col1
+{
+	background-color: #696969;
+	color: #FFF;
+	border-radius: 5px;
+	padding: 10px;
+}
+#bio
+{
+	float: right;
+}
+.languages
+{
+	text-transform: uppercase;
+}
+.italic
+{
+	font-style: italic;
+	text-transform: none;
+}
+UL.languages
+{
+	list-style-type: square;
+}
+.grey
+{
+	color: #696969;
+}
+.btn-center
+{
+	text-align: center;
+}
+.nav LI A:hover
+{
+	text-shadow: 2px 2px #CCC;
+}
+.contact
+{
+	font-style: italic;
+	font-size: 18px;
+	text-align: right;
+}
+/*overwriting a tag from bootstrap.css*/
+.mail
+{
+	color: #FFF;
+}
+.contact A:hover
+{
+	color: #CCC !important;
+}
+.errors
+{
+	color: #FF0000;
+}
+.form-center
+{
+
+	margin-right: auto;
+	margin-left: auto;
+}
+.topics
+{
+	list-style-type: none;
+}
+.topics a:hover
+{
+	color: #CCC;
+}
+.black
+{
+	color: #000;
+}
+.bold
+{
+	font-weight: bold;
+}
+.btn-right
+{
+	float: right;
+}
+.art-title:hover
+{
+	color: #FFF;
+	text-decoration: none;
+}
+.art-title
+{
+	color: #000;
+}
+.comment-box
+{
+	background-color: #696969;
+	color: #FFF;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+#comment
+{
+	width: 100%;
+	height: 100px;
+	margin-top: 30px;
+	padding-right: 0px;
+}
+.nav-links ul li
+{
+	list-style-type: none;
+}
+.grey
+{
+	list-style-type: none;
+}
+#password-form
+{
+	margin-top: 30px;
+}
+.textarea
+{
+	width: 100%;
+	height: 200px;
+}
